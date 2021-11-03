@@ -1,7 +1,7 @@
 # CamilaFarias_005V
 Segunda entrega Aplicación móvil
 
-~Plugins para ejecutar el proyecto~
+Plugins para ejecutar el proyecto:
 1. En la consola debe ejecutar el comando npm install @ionic/storage
 2. Luego debe ejecutar el comando npm install @ionic/storage-angular
 3. Por último debe ejecutar el comando npm install -g cordova
