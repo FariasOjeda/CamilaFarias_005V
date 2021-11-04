@@ -1,5 +1,7 @@
 # CamilaFarias_005V
-Segunda entrega Aplicación móvil
+
+Nombre: Camila Farías Ojeda
+Proyecto: NutriHelp
 
 Plugins para ejecutar el proyecto:
 1. En la consola debe ejecutar el comando npm install @ionic/storage
